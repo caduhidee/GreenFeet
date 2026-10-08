@@ -1,583 +1,593 @@
 // !$*UTF8*$!
 {
-	archiveVersion = 1;
-	classes = {
-	};
-	objectVersion = 77;
-	objects = {
+    archiveVersion = 1;
+    classes = {
+    };
+    objectVersion = 77;
+    objects = {
 
 /* Begin PBXContainerItemProxy section */
-		438236882FB56178002D06F9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 438236722FB56176002D06F9 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 438236792FB56176002D06F9;
-			remoteInfo = "Sustainable Routes";
-		};
-		438236922FB56178002D06F9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 438236722FB56176002D06F9 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 438236792FB56176002D06F9;
-			remoteInfo = "Sustainable Routes";
-		};
+        438236882FB56178002D06F9 /* PBXContainerItemProxy */ = {
+            isa = PBXContainerItemProxy;
+            containerPortal = 438236722FB56176002D06F9 /* Project object */;
+            proxyType = 1;
+            remoteGlobalIDString = 438236792FB56176002D06F9;
+            remoteInfo = "Sustainable Routes";
+        };
+        438236922FB56178002D06F9 /* PBXContainerItemProxy */ = {
+            isa = PBXContainerItemProxy;
+            containerPortal = 438236722FB56176002D06F9 /* Project object */;
+            proxyType = 1;
+            remoteGlobalIDString = 438236792FB56176002D06F9;
+            remoteInfo = "Sustainable Routes";
+        };
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4382367A2FB56176002D06F9 /* Sustainable Routes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sustainable Routes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		438236872FB56178002D06F9 /* Sustainable RoutesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sustainable RoutesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		438236912FB56178002D06F9 /* Sustainable RoutesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sustainable RoutesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+        4382367A2FB56176002D06F9 /* Sustainable Routes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sustainable Routes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+        438236872FB56178002D06F9 /* Sustainable RoutesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sustainable RoutesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+        438236912FB56178002D06F9 /* Sustainable RoutesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sustainable RoutesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4382367C2FB56176002D06F9 /* Sustainable Routes */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Sustainable Routes";
-			sourceTree = "<group>";
-		};
-		4382368A2FB56178002D06F9 /* Sustainable RoutesTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Sustainable RoutesTests";
-			sourceTree = "<group>";
-		};
-		438236942FB56178002D06F9 /* Sustainable RoutesUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Sustainable RoutesUITests";
-			sourceTree = "<group>";
-		};
+        4382367C2FB56176002D06F9 /* Sustainable Routes */ = {
+            isa = PBXFileSystemSynchronizedRootGroup;
+            path = "Sustainable Routes";
+            sourceTree = "<group>";
+        };
+        4382368A2FB56178002D06F9 /* Sustainable RoutesTests */ = {
+            isa = PBXFileSystemSynchronizedRootGroup;
+            path = "Sustainable RoutesTests";
+            sourceTree = "<group>";
+        };
+        438236942FB56178002D06F9 /* Sustainable RoutesUITests */ = {
+            isa = PBXFileSystemSynchronizedRootGroup;
+            path = "Sustainable RoutesUITests";
+            sourceTree = "<group>";
+        };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		438236772FB56176002D06F9 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		438236842FB56178002D06F9 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4382368E2FB56178002D06F9 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
+        438236772FB56176002D06F9 /* Frameworks */ = {
+            isa = PBXFrameworksBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+        438236842FB56178002D06F9 /* Frameworks */ = {
+            isa = PBXFrameworksBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+        4382368E2FB56178002D06F9 /* Frameworks */ = {
+            isa = PBXFrameworksBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		438236712FB56176002D06F9 = {
-			isa = PBXGroup;
-			children = (
-				4382367C2FB56176002D06F9 /* Sustainable Routes */,
-				4382368A2FB56178002D06F9 /* Sustainable RoutesTests */,
-				438236942FB56178002D06F9 /* Sustainable RoutesUITests */,
-				4382367B2FB56176002D06F9 /* Products */,
-			);
-			sourceTree = "<group>";
-		};
-		4382367B2FB56176002D06F9 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4382367A2FB56176002D06F9 /* Sustainable Routes.app */,
-				438236872FB56178002D06F9 /* Sustainable RoutesTests.xctest */,
-				438236912FB56178002D06F9 /* Sustainable RoutesUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
+        438236712FB56176002D06F9 = {
+            isa = PBXGroup;
+            children = (
+                4382367C2FB56176002D06F9 /* Sustainable Routes */,
+                4382368A2FB56178002D06F9 /* Sustainable RoutesTests */,
+                438236942FB56178002D06F9 /* Sustainable RoutesUITests */,
+                4382367B2FB56176002D06F9 /* Products */,
+            );
+            sourceTree = "<group>";
+        };
+        4382367B2FB56176002D06F9 /* Products */ = {
+            isa = PBXGroup;
+            children = (
+                4382367A2FB56176002D06F9 /* Sustainable Routes.app */,
+                438236872FB56178002D06F9 /* Sustainable RoutesTests.xctest */,
+                438236912FB56178002D06F9 /* Sustainable RoutesUITests.xctest */,
+            );
+            name = Products;
+            sourceTree = "<group>";
+        };
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		438236792FB56176002D06F9 /* Sustainable Routes */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4382369B2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable Routes" */;
-			buildPhases = (
-				438236762FB56176002D06F9 /* Sources */,
-				438236772FB56176002D06F9 /* Frameworks */,
-				438236782FB56176002D06F9 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				4382367C2FB56176002D06F9 /* Sustainable Routes */,
-			);
-			name = "Sustainable Routes";
-			packageProductDependencies = (
-			);
-			productName = "Sustainable Routes";
-			productReference = 4382367A2FB56176002D06F9 /* Sustainable Routes.app */;
-			productType = "com.apple.product-type.application";
-		};
-		438236862FB56178002D06F9 /* Sustainable RoutesTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4382369E2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesTests" */;
-			buildPhases = (
-				438236832FB56178002D06F9 /* Sources */,
-				438236842FB56178002D06F9 /* Frameworks */,
-				438236852FB56178002D06F9 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				438236892FB56178002D06F9 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				4382368A2FB56178002D06F9 /* Sustainable RoutesTests */,
-			);
-			name = "Sustainable RoutesTests";
-			packageProductDependencies = (
-			);
-			productName = "Sustainable RoutesTests";
-			productReference = 438236872FB56178002D06F9 /* Sustainable RoutesTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		438236902FB56178002D06F9 /* Sustainable RoutesUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 438236A12FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesUITests" */;
-			buildPhases = (
-				4382368D2FB56178002D06F9 /* Sources */,
-				4382368E2FB56178002D06F9 /* Frameworks */,
-				4382368F2FB56178002D06F9 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				438236932FB56178002D06F9 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				438236942FB56178002D06F9 /* Sustainable RoutesUITests */,
-			);
-			name = "Sustainable RoutesUITests";
-			packageProductDependencies = (
-			);
-			productName = "Sustainable RoutesUITests";
-			productReference = 438236912FB56178002D06F9 /* Sustainable RoutesUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
+        438236792FB56176002D06F9 /* Sustainable Routes */ = {
+            isa = PBXNativeTarget;
+            buildConfigurationList = 4382369B2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable Routes" */;
+            buildPhases = (
+                438236762FB56176002D06F9 /* Sources */,
+                438236772FB56176002D06F9 /* Frameworks */,
+                438236782FB56176002D06F9 /* Resources */,
+            );
+            buildRules = (
+            );
+            dependencies = (
+            );
+            fileSystemSynchronizedGroups = (
+                4382367C2FB56176002D06F9 /* Sustainable Routes */,
+            );
+            name = "Sustainable Routes";
+            packageProductDependencies = (
+            );
+            productName = "Sustainable Routes";
+            productReference = 4382367A2FB56176002D06F9 /* Sustainable Routes.app */;
+            productType = "com.apple.product-type.application";
+        };
+        438236862FB56178002D06F9 /* Sustainable RoutesTests */ = {
+            isa = PBXNativeTarget;
+            buildConfigurationList = 4382369E2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesTests" */;
+            buildPhases = (
+                438236832FB56178002D06F9 /* Sources */,
+                438236842FB56178002D06F9 /* Frameworks */,
+                438236852FB56178002D06F9 /* Resources */,
+            );
+            buildRules = (
+            );
+            dependencies = (
+                438236892FB56178002D06F9 /* PBXTargetDependency */,
+            );
+            fileSystemSynchronizedGroups = (
+                4382368A2FB56178002D06F9 /* Sustainable RoutesTests */,
+            );
+            name = "Sustainable RoutesTests";
+            packageProductDependencies = (
+            );
+            productName = "Sustainable RoutesTests";
+            productReference = 438236872FB56178002D06F9 /* Sustainable RoutesTests.xctest */;
+            productType = "com.apple.product-type.bundle.unit-test";
+        };
+        438236902FB56178002D06F9 /* Sustainable RoutesUITests */ = {
+            isa = PBXNativeTarget;
+            buildConfigurationList = 438236A12FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesUITests" */;
+            buildPhases = (
+                4382368D2FB56178002D06F9 /* Sources */,
+                4382368E2FB56178002D06F9 /* Frameworks */,
+                4382368F2FB56178002D06F9 /* Resources */,
+            );
+            buildRules = (
+            );
+            dependencies = (
+                438236932FB56178002D06F9 /* PBXTargetDependency */,
+            );
+            fileSystemSynchronizedGroups = (
+                438236942FB56178002D06F9 /* Sustainable RoutesUITests */,
+            );
+            name = "Sustainable RoutesUITests";
+            packageProductDependencies = (
+            );
+            productName = "Sustainable RoutesUITests";
+            productReference = 438236912FB56178002D06F9 /* Sustainable RoutesUITests.xctest */;
+            productType = "com.apple.product-type.bundle.ui-testing";
+        };
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		438236722FB56176002D06F9 /* Project object */ = {
-			isa = PBXProject;
-			attributes = {
-				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 2620;
-				LastUpgradeCheck = 2620;
-				TargetAttributes = {
-					438236792FB56176002D06F9 = {
-						CreatedOnToolsVersion = 26.2;
-					};
-					438236862FB56178002D06F9 = {
-						CreatedOnToolsVersion = 26.2;
-						TestTargetID = 438236792FB56176002D06F9;
-					};
-					438236902FB56178002D06F9 = {
-						CreatedOnToolsVersion = 26.2;
-						TestTargetID = 438236792FB56176002D06F9;
-					};
-				};
-			};
-			buildConfigurationList = 438236752FB56176002D06F9 /* Build configuration list for PBXProject "Sustainable Routes" */;
-			developmentRegion = en;
-			hasScannedForEncodings = 0;
-			knownRegions = (
-				en,
-				Base,
-			);
-			mainGroup = 438236712FB56176002D06F9;
-			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
-			productRefGroup = 4382367B2FB56176002D06F9 /* Products */;
-			projectDirPath = "";
-			projectRoot = "";
-			targets = (
-				438236792FB56176002D06F9 /* Sustainable Routes */,
-				438236862FB56178002D06F9 /* Sustainable RoutesTests */,
-				438236902FB56178002D06F9 /* Sustainable RoutesUITests */,
-			);
-		};
+        438236722FB56176002D06F9 /* Project object */ = {
+            isa = PBXProject;
+            attributes = {
+                BuildIndependentTargetsInParallel = 1;
+                LastSwiftUpdateCheck = 2620;
+                LastUpgradeCheck = 2620;
+                TargetAttributes = {
+                    438236792FB56176002D06F9 = {
+                        CreatedOnToolsVersion = 26.2;
+                    };
+                    438236862FB56178002D06F9 = {
+                        CreatedOnToolsVersion = 26.2;
+                        TestTargetID = 438236792FB56176002D06F9;
+                    };
+                    438236902FB56178002D06F9 = {
+                        CreatedOnToolsVersion = 26.2;
+                        TestTargetID = 438236792FB56176002D06F9;
+                    };
+                };
+            };
+            buildConfigurationList = 438236752FB56176002D06F9 /* Build configuration list for PBXProject "Sustainable Routes" */;
+            developmentRegion = en;
+            hasScannedForEncodings = 0;
+            knownRegions = (
+                en,
+                Base,
+            );
+            mainGroup = 438236712FB56176002D06F9;
+            minimizedProjectReferenceProxies = 1;
+            preferredProjectObjectVersion = 77;
+            productRefGroup = 4382367B2FB56176002D06F9 /* Products */;
+            projectDirPath = "";
+            projectRoot = "";
+            targets = (
+                438236792FB56176002D06F9 /* Sustainable Routes */,
+                438236862FB56178002D06F9 /* Sustainable RoutesTests */,
+                438236902FB56178002D06F9 /* Sustainable RoutesUITests */,
+            );
+        };
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		438236782FB56176002D06F9 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		438236852FB56178002D06F9 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4382368F2FB56178002D06F9 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
+        438236782FB56176002D06F9 /* Resources */ = {
+            isa = PBXResourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+        438236852FB56178002D06F9 /* Resources */ = {
+            isa = PBXResourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+        4382368F2FB56178002D06F9 /* Resources */ = {
+            isa = PBXResourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		438236762FB56176002D06F9 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		438236832FB56178002D06F9 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4382368D2FB56178002D06F9 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
+        438236762FB56176002D06F9 /* Sources */ = {
+            isa = PBXSourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+        438236832FB56178002D06F9 /* Sources */ = {
+            isa = PBXSourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+        4382368D2FB56178002D06F9 /* Sources */ = {
+            isa = PBXSourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		438236892FB56178002D06F9 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 438236792FB56176002D06F9 /* Sustainable Routes */;
-			targetProxy = 438236882FB56178002D06F9 /* PBXContainerItemProxy */;
-		};
-		438236932FB56178002D06F9 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 438236792FB56176002D06F9 /* Sustainable Routes */;
-			targetProxy = 438236922FB56178002D06F9 /* PBXContainerItemProxy */;
-		};
+        438236892FB56178002D06F9 /* PBXTargetDependency */ = {
+            isa = PBXTargetDependency;
+            target = 438236792FB56176002D06F9 /* Sustainable Routes */;
+            targetProxy = 438236882FB56178002D06F9 /* PBXContainerItemProxy */;
+        };
+        438236932FB56178002D06F9 /* PBXTargetDependency */ = {
+            isa = PBXTargetDependency;
+            target = 438236792FB56176002D06F9 /* Sustainable Routes */;
+            targetProxy = 438236922FB56178002D06F9 /* PBXContainerItemProxy */;
+        };
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		438236992FB56178002D06F9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu17;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = iphoneos;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-			};
-			name = Debug;
-		};
-		4382369A2FB56178002D06F9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu17;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				SDKROOT = iphoneos;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		4382369C2FB56178002D06F9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-Routes";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		4382369D2FB56178002D06F9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-Routes";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		4382369F2FB56178002D06F9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sustainable Routes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Sustainable Routes";
-			};
-			name = Debug;
-		};
-		438236A02FB56178002D06F9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sustainable Routes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Sustainable Routes";
-			};
-			name = Release;
-		};
-		438236A22FB56178002D06F9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Sustainable Routes";
-			};
-			name = Debug;
-		};
-		438236A32FB56178002D06F9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XVL238VH8Q;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Sustainable Routes";
-			};
-			name = Release;
-		};
+        438236992FB56178002D06F9 /* Debug */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                ALWAYS_SEARCH_USER_PATHS = NO;
+                ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+                CLANG_ANALYZER_NONNULL = YES;
+                CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+                CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+                CLANG_ENABLE_MODULES = YES;
+                CLANG_ENABLE_OBJC_ARC = YES;
+                CLANG_ENABLE_OBJC_WEAK = YES;
+                CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+                CLANG_WARN_BOOL_CONVERSION = YES;
+                CLANG_WARN_COMMA = YES;
+                CLANG_WARN_CONSTANT_CONVERSION = YES;
+                CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+                CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+                CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+                CLANG_WARN_EMPTY_BODY = YES;
+                CLANG_WARN_ENUM_CONVERSION = YES;
+                CLANG_WARN_INFINITE_RECURSION = YES;
+                CLANG_WARN_INT_CONVERSION = YES;
+                CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+                CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+                CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+                CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+                CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+                CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+                CLANG_WARN_STRICT_PROTOTYPES = YES;
+                CLANG_WARN_SUSPICIOUS_MOVE = YES;
+                CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+                CLANG_WARN_UNREACHABLE_CODE = YES;
+                CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+                COPY_PHASE_STRIP = NO;
+                DEBUG_INFORMATION_FORMAT = dwarf;
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                ENABLE_STRICT_OBJC_MSGSEND = YES;
+                ENABLE_TESTABILITY = YES;
+                ENABLE_USER_SCRIPT_SANDBOXING = YES;
+                GCC_C_LANGUAGE_STANDARD = gnu17;
+                GCC_DYNAMIC_NO_PIC = NO;
+                GCC_NO_COMMON_BLOCKS = YES;
+                GCC_OPTIMIZATION_LEVEL = 0;
+                GCC_PREPROCESSOR_DEFINITIONS = (
+                    "DEBUG=1",
+                    "$(inherited)",
+                );
+                GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+                GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+                GCC_WARN_UNDECLARED_SELECTOR = YES;
+                GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+                GCC_WARN_UNUSED_FUNCTION = YES;
+                GCC_WARN_UNUSED_VARIABLE = YES;
+                IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+                LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+                MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+                MTL_FAST_MATH = YES;
+                ONLY_ACTIVE_ARCH = YES;
+                SDKROOT = iphoneos;
+                SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+                SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+            };
+            name = Debug;
+        };
+        4382369A2FB56178002D06F9 /* Release */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                ALWAYS_SEARCH_USER_PATHS = NO;
+                ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+                CLANG_ANALYZER_NONNULL = YES;
+                CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+                CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+                CLANG_ENABLE_MODULES = YES;
+                CLANG_ENABLE_OBJC_ARC = YES;
+                CLANG_ENABLE_OBJC_WEAK = YES;
+                CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+                CLANG_WARN_BOOL_CONVERSION = YES;
+                CLANG_WARN_COMMA = YES;
+                CLANG_WARN_CONSTANT_CONVERSION = YES;
+                CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+                CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+                CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+                CLANG_WARN_EMPTY_BODY = YES;
+                CLANG_WARN_ENUM_CONVERSION = YES;
+                CLANG_WARN_INFINITE_RECURSION = YES;
+                CLANG_WARN_INT_CONVERSION = YES;
+                CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+                CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+                CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+                CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+                CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+                CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+                CLANG_WARN_STRICT_PROTOTYPES = YES;
+                CLANG_WARN_SUSPICIOUS_MOVE = YES;
+                CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+                CLANG_WARN_UNREACHABLE_CODE = YES;
+                CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+                COPY_PHASE_STRIP = NO;
+                DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                ENABLE_NS_ASSERTIONS = NO;
+                ENABLE_STRICT_OBJC_MSGSEND = YES;
+                ENABLE_USER_SCRIPT_SANDBOXING = YES;
+                GCC_C_LANGUAGE_STANDARD = gnu17;
+                GCC_NO_COMMON_BLOCKS = YES;
+                GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+                GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+                GCC_WARN_UNDECLARED_SELECTOR = YES;
+                GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+                GCC_WARN_UNUSED_FUNCTION = YES;
+                GCC_WARN_UNUSED_VARIABLE = YES;
+                IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+                LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+                MTL_ENABLE_DEBUG_INFO = NO;
+                MTL_FAST_MATH = YES;
+                SDKROOT = iphoneos;
+                SWIFT_COMPILATION_MODE = wholemodule;
+                VALIDATE_PRODUCT = YES;
+            };
+            name = Release;
+        };
+        4382369C2FB56178002D06F9 /* Debug */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+                ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                ENABLE_PREVIEWS = YES;
+                GENERATE_INFOPLIST_FILE = YES;
+                INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Background location access lets the app organize your trips.";
+                INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Foreground location access lets the app detect and group trips.";
+                INFOPLIST_KEY_UIBackgroundModes = (
+                    location,
+                );
+                INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+                INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+                INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                LD_RUNPATH_SEARCH_PATHS = (
+                    "$(inherited)",
+                    "@executable_path/Frameworks",
+                );
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-Routes";
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                STRING_CATALOG_GENERATE_SYMBOLS = YES;
+                SWIFT_APPROACHABLE_CONCURRENCY = YES;
+                SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+                SWIFT_EMIT_LOC_STRINGS = YES;
+                SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = "1,2";
+            };
+            name = Debug;
+        };
+        4382369D2FB56178002D06F9 /* Release */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+                ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                ENABLE_PREVIEWS = YES;
+                GENERATE_INFOPLIST_FILE = YES;
+                INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Background location access lets the app organize your trips.";
+                INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Foreground location access lets the app detect and group trips.";
+                INFOPLIST_KEY_UIBackgroundModes = (
+                    location,
+                );
+                INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+                INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+                INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                LD_RUNPATH_SEARCH_PATHS = (
+                    "$(inherited)",
+                    "@executable_path/Frameworks",
+                );
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-Routes";
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                STRING_CATALOG_GENERATE_SYMBOLS = YES;
+                SWIFT_APPROACHABLE_CONCURRENCY = YES;
+                SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+                SWIFT_EMIT_LOC_STRINGS = YES;
+                SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = "1,2";
+            };
+            name = Release;
+        };
+        4382369F2FB56178002D06F9 /* Debug */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                BUNDLE_LOADER = "$(TEST_HOST)";
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                GENERATE_INFOPLIST_FILE = YES;
+                IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesTests";
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                STRING_CATALOG_GENERATE_SYMBOLS = NO;
+                SWIFT_APPROACHABLE_CONCURRENCY = YES;
+                SWIFT_EMIT_LOC_STRINGS = NO;
+                SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = "1,2";
+                TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sustainable Routes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Sustainable Routes";
+            };
+            name = Debug;
+        };
+        438236A02FB56178002D06F9 /* Release */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                BUNDLE_LOADER = "$(TEST_HOST)";
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                GENERATE_INFOPLIST_FILE = YES;
+                IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesTests";
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                STRING_CATALOG_GENERATE_SYMBOLS = NO;
+                SWIFT_APPROACHABLE_CONCURRENCY = YES;
+                SWIFT_EMIT_LOC_STRINGS = NO;
+                SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = "1,2";
+                TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sustainable Routes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Sustainable Routes";
+            };
+            name = Release;
+        };
+        438236A22FB56178002D06F9 /* Debug */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                GENERATE_INFOPLIST_FILE = YES;
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesUITests";
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                STRING_CATALOG_GENERATE_SYMBOLS = NO;
+                SWIFT_APPROACHABLE_CONCURRENCY = YES;
+                SWIFT_EMIT_LOC_STRINGS = NO;
+                SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = "1,2";
+                TEST_TARGET_NAME = "Sustainable Routes";
+            };
+            name = Debug;
+        };
+        438236A32FB56178002D06F9 /* Release */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = XVL238VH8Q;
+                GENERATE_INFOPLIST_FILE = YES;
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = "cadu.Sustainable-RoutesUITests";
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                STRING_CATALOG_GENERATE_SYMBOLS = NO;
+                SWIFT_APPROACHABLE_CONCURRENCY = YES;
+                SWIFT_EMIT_LOC_STRINGS = NO;
+                SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = "1,2";
+                TEST_TARGET_NAME = "Sustainable Routes";
+            };
+            name = Release;
+        };
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		438236752FB56176002D06F9 /* Build configuration list for PBXProject "Sustainable Routes" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				438236992FB56178002D06F9 /* Debug */,
-				4382369A2FB56178002D06F9 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		4382369B2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable Routes" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4382369C2FB56178002D06F9 /* Debug */,
-				4382369D2FB56178002D06F9 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		4382369E2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4382369F2FB56178002D06F9 /* Debug */,
-				438236A02FB56178002D06F9 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		438236A12FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				438236A22FB56178002D06F9 /* Debug */,
-				438236A32FB56178002D06F9 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
+        438236752FB56176002D06F9 /* Build configuration list for PBXProject "Sustainable Routes" */ = {
+            isa = XCConfigurationList;
+            buildConfigurations = (
+                438236992FB56178002D06F9 /* Debug */,
+                4382369A2FB56178002D06F9 /* Release */,
+            );
+            defaultConfigurationIsVisible = 0;
+            defaultConfigurationName = Release;
+        };
+        4382369B2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable Routes" */ = {
+            isa = XCConfigurationList;
+            buildConfigurations = (
+                4382369C2FB56178002D06F9 /* Debug */,
+                4382369D2FB56178002D06F9 /* Release */,
+            );
+            defaultConfigurationIsVisible = 0;
+            defaultConfigurationName = Release;
+        };
+        4382369E2FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesTests" */ = {
+            isa = XCConfigurationList;
+            buildConfigurations = (
+                4382369F2FB56178002D06F9 /* Debug */,
+                438236A02FB56178002D06F9 /* Release */,
+            );
+            defaultConfigurationIsVisible = 0;
+            defaultConfigurationName = Release;
+        };
+        438236A12FB56178002D06F9 /* Build configuration list for PBXNativeTarget "Sustainable RoutesUITests" */ = {
+            isa = XCConfigurationList;
+            buildConfigurations = (
+                438236A22FB56178002D06F9 /* Debug */,
+                438236A32FB56178002D06F9 /* Release */,
+            );
+            defaultConfigurationIsVisible = 0;
+            defaultConfigurationName = Release;
+        };
 /* End XCConfigurationList section */
-	};
-	rootObject = 438236722FB56176002D06F9 /* Project object */;
+    };
+    rootObject = 438236722FB56176002D06F9 /* Project object */;
 }
